@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Amazon</string>
+    <string name="smart_phones">SmartPhones</string>
+    <string name="smart_samsung">Samsung</string>
+
+    <string name="smart_iphone">Iphone</string>
+
+    <string name="smart_oneplus">Oneplus</string>
+    <string name="smart_Redmi">Redmi</string>
+    <string name="seeall">See All</string>
+
+    <!-- product page strings-->
+    <string name="product_heading">Product name</string>
+    <string name="some_text">some text</string>
+    <string name="rating">3.5</string>
+    <string name="re_enter_passowrd">Re Enter passowrd</string>
+    <string name="enter_passowrd">Enter passowrd</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+
+</resources>
